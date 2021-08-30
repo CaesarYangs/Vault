@@ -1,0 +1,78 @@
+{
+  "main": {
+    "id": "90e3945143257983",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4bbd3ec301b07a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "机器学习与深度学习/StandFord MachineLearning Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59e85ec06a507f26",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8bbc2e09c4156e48",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "9b2a6804d0c48185",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4fc59220e02af2cc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6663c70c31f6a7b4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "机器学习与深度学习/StandFord MachineLearning Notes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4e4bbd3ec301b07a",
+  "lastOpenFiles": [
+    "机器学习与深度学习/StandFord MachineLearning Notes.md"
+  ]
+}

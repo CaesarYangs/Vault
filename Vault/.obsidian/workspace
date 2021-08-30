@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "46074c40ee2def80",
+    "type": "split",
+    "children": [
+      {
+        "id": "a261924afde48cfc",
+        "type": "leaf",
+        "dimension": 75.85438335809806,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "dc3641bbd19cfbd0",
+        "type": "leaf",
+        "dimension": 24.145616641901928,
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0756a98356087234",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b51d6ddd4398c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab38d7e09b4506e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "57a9a6204eb0eb8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "765565dfce9968e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1b351330d2fb6801",
+    "type": "split",
+    "children": [
+      {
+        "id": "51822882ed0f5889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1238614e5c8cdd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e89191fb6d9751e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a261924afde48cfc",
+  "lastOpenFiles": [
+    "3.md",
+    "人工智能导论.md",
+    "Machine Learning——Standford/Week 1.md",
+    "Untitled.md",
+    "Senior Class Notes/信息资源规划.md",
+    "机器学习与深度学习/StandFord MachineLearning Notes.md",
+    "机器学习与深度学习/卷积神经网络.md",
+    "机器学习与深度学习/阿里云机器学习课程笔记.md",
+    "未命名.md",
+    "2.md"
+  ]
+}
