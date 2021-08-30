@@ -8,8 +8,11 @@
         "type": "leaf",
         "dimension": 75.85438335809806,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Senior Class Notes/人工智能导论.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -18,7 +21,9 @@
         "dimension": 24.145616641901928,
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Senior Class Notes/人工智能导论.md"
+          }
         }
       }
     ],
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Senior Class Notes/人工智能导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +116,15 @@
   },
   "active": "a261924afde48cfc",
   "lastOpenFiles": [
+    "Senior Class Notes/人工智能导论.md",
+    "Senior Class Notes/云服务工程.md",
+    "Senior Class Notes/信息资源规划.md",
     "3.md",
     "人工智能导论.md",
     "Machine Learning——Standford/Week 1.md",
     "Untitled.md",
-    "Senior Class Notes/信息资源规划.md",
     "机器学习与深度学习/StandFord MachineLearning Notes.md",
     "机器学习与深度学习/卷积神经网络.md",
-    "机器学习与深度学习/阿里云机器学习课程笔记.md",
-    "未命名.md",
-    "2.md"
+    "机器学习与深度学习/阿里云机器学习课程笔记.md"
   ]
 }
