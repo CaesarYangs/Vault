@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Senior Class Notes/人工智能导论.md",
+            "file": "Junior Class Notes/操作系统.md",
             "mode": "source"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Senior Class Notes/人工智能导论.md"
+            "file": "Junior Class Notes/操作系统.md"
           }
         }
       }
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0756a98356087234",
+    "id": "95e0dcfd08a19089",
     "type": "split",
     "children": [
       {
-        "id": "93b51d6ddd4398c2",
+        "id": "4defdf68573ddce3",
         "type": "tabs",
         "children": [
           {
-            "id": "ab38d7e09b4506e4",
+            "id": "bd045ea7aa02b772",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "57a9a6204eb0eb8b",
+            "id": "8e15bd1f5e792e64",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "765565dfce9968e1",
+            "id": "89f6791b09380988",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -75,15 +75,15 @@
     "width": 300
   },
   "right": {
-    "id": "1b351330d2fb6801",
+    "id": "a6104ac5339331c8",
     "type": "split",
     "children": [
       {
-        "id": "51822882ed0f5889",
+        "id": "f17c9164bf729734",
         "type": "tabs",
         "children": [
           {
-            "id": "fa1238614e5c8cdd",
+            "id": "a939f86cdf4be8fd",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -91,12 +91,12 @@
             }
           },
           {
-            "id": "e89191fb6d9751e9",
+            "id": "2b7a3040ab4a4e43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Senior Class Notes/人工智能导论.md",
+                "file": "Junior Class Notes/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "a261924afde48cfc",
   "lastOpenFiles": [
-    "Senior Class Notes/人工智能导论.md",
-    "Senior Class Notes/云服务工程.md",
-    "Senior Class Notes/信息资源规划.md",
-    "3.md",
+    "操作系统.md",
+    "Untitled.md",
     "人工智能导论.md",
     "Machine Learning——Standford/Week 1.md",
-    "Untitled.md",
+    "Senior Class Notes/信息资源规划.md",
     "机器学习与深度学习/StandFord MachineLearning Notes.md",
     "机器学习与深度学习/卷积神经网络.md",
-    "机器学习与深度学习/阿里云机器学习课程笔记.md"
+    "机器学习与深度学习/阿里云机器学习课程笔记.md",
+    "未命名.md",
+    "2.md"
   ]
 }
