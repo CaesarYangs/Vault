@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/操作系统.md",
+            "file": "Junior Class Notes/人工智能导论.md",
             "mode": "source"
           }
         }
@@ -22,7 +22,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Junior Class Notes/操作系统.md"
+            "file": "Junior Class Notes/人工智能导论.md"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/操作系统.md",
+                "file": "Junior Class Notes/人工智能导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "a261924afde48cfc",
   "lastOpenFiles": [
+    "Junior Class Notes/人工智能导论.md",
+    "2021-MachineLearning Intro.md",
+    "未命名.md",
+    "机器学习与深度学习/StandFord MachineLearning Notes.md",
+    "Junior Class Notes/操作系统.md",
     "操作系统.md",
     "Untitled.md",
     "人工智能导论.md",
     "Machine Learning——Standford/Week 1.md",
-    "Senior Class Notes/信息资源规划.md",
-    "机器学习与深度学习/StandFord MachineLearning Notes.md",
-    "机器学习与深度学习/卷积神经网络.md",
-    "机器学习与深度学习/阿里云机器学习课程笔记.md",
-    "未命名.md",
-    "2.md"
+    "Senior Class Notes/信息资源规划.md"
   ]
 }
