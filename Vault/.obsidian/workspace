@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-MachineLearning Intro.md",
+            "file": "Computer Networks.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
       {
         "id": "dc3641bbd19cfbd0",
         "type": "leaf",
-        "dimension": 24.14561664190193,
+        "dimension": 24.145616641901928,
         "state": {
           "type": "outline",
           "state": {
-            "file": "2021-MachineLearning Intro.md"
+            "file": "Computer Networks.md"
           }
         }
       }
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "95e0dcfd08a19089",
+    "id": "222610f50236d327",
     "type": "split",
     "children": [
       {
-        "id": "4defdf68573ddce3",
+        "id": "82926d9843d2cd2c",
         "type": "tabs",
         "children": [
           {
-            "id": "bd045ea7aa02b772",
+            "id": "c725cfe4b7847400",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "8e15bd1f5e792e64",
+            "id": "987817cabe39ad9a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "89f6791b09380988",
+            "id": "3114eb9919382254",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -75,15 +75,15 @@
     "width": 300
   },
   "right": {
-    "id": "a6104ac5339331c8",
+    "id": "53178317c0099830",
     "type": "split",
     "children": [
       {
-        "id": "f17c9164bf729734",
+        "id": "12a17d7a23c431fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a939f86cdf4be8fd",
+            "id": "ccf07e5edadf95c8",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -91,12 +91,12 @@
             }
           },
           {
-            "id": "2b7a3040ab4a4e43",
+            "id": "90202af750c4e82c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-MachineLearning Intro.md",
+                "file": "Computer Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "a261924afde48cfc",
   "lastOpenFiles": [
+    "Computer Networks.md",
+    "Untitled.md",
+    "Junior Class Notes/操作系统.md",
     "2021-MachineLearning Intro.md",
     "Junior Class Notes/人工智能导论.md",
     "未命名.md",
     "机器学习与深度学习/StandFord MachineLearning Notes.md",
-    "Junior Class Notes/操作系统.md",
     "操作系统.md",
-    "Untitled.md",
     "人工智能导论.md",
-    "Machine Learning——Standford/Week 1.md",
-    "Senior Class Notes/信息资源规划.md"
+    "Machine Learning——Standford/Week 1.md"
   ]
 }
