@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Networks.md",
+            "file": "Junior Class Notes/人工智能导论.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
       {
         "id": "dc3641bbd19cfbd0",
         "type": "leaf",
-        "dimension": 24.145616641901928,
+        "dimension": 24.14561664190193,
         "state": {
           "type": "outline",
           "state": {
-            "file": "Computer Networks.md"
+            "file": "Junior Class Notes/人工智能导论.md"
           }
         }
       }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Networks.md",
+                "file": "Junior Class Notes/人工智能导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +116,15 @@
   },
   "active": "a261924afde48cfc",
   "lastOpenFiles": [
+    "Junior Class Notes/人工智能导论.md",
+    "Junior Class Notes/云服务工程.md",
     "Computer Networks.md",
     "Untitled.md",
     "Junior Class Notes/操作系统.md",
     "2021-MachineLearning Intro.md",
-    "Junior Class Notes/人工智能导论.md",
     "未命名.md",
     "机器学习与深度学习/StandFord MachineLearning Notes.md",
     "操作系统.md",
-    "人工智能导论.md",
-    "Machine Learning——Standford/Week 1.md"
+    "人工智能导论.md"
   ]
 }
