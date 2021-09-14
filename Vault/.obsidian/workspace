@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a261924afde48cfc",
+        "id": "8c5e32d35c8f523f",
         "type": "leaf",
-        "dimension": 75.85438335809806,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/人工智能导论.md",
+            "file": "Junior Class Notes/操作系统.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "dc3641bbd19cfbd0",
-        "type": "leaf",
-        "dimension": 24.14561664190193,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Junior Class Notes/人工智能导论.md"
           }
         }
       }
@@ -96,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/人工智能导论.md",
+                "file": "Junior Class Notes/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a261924afde48cfc",
+  "active": "8c5e32d35c8f523f",
   "lastOpenFiles": [
+    "Junior Class Notes/操作系统.md",
+    "Junior Class Notes/面向对象建模与分析.md",
+    "数据结构复习/图.md",
+    "未命名.md",
+    "数据结构复习/树.md",
     "Junior Class Notes/人工智能导论.md",
     "Junior Class Notes/云服务工程.md",
     "机器学习与深度学习/卷积神经网络.md",
     "机器学习与深度学习/StandFord MachineLearning Notes.md",
-    "Untitled.md",
-    "Computer Networks.md",
-    "操作系统-习题分析.md",
-    "Junior Class Notes/操作系统.md",
-    "树.md",
-    "Junior Class Notes/信息资源规划.md"
+    "Untitled.md"
   ]
 }
