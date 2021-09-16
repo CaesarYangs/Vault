@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/操作系统.md",
+            "file": "Junior Class Notes/人工智能导论.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/操作系统.md",
+                "file": "Junior Class Notes/人工智能导论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +92,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aa1dff1a9a7414d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Junior Class Notes/人工智能导论.md"
               }
             }
           }
@@ -104,12 +114,12 @@
   },
   "active": "8c5e32d35c8f523f",
   "lastOpenFiles": [
+    "Junior Class Notes/人工智能导论.md",
+    "数据结构复习/图.md",
     "Junior Class Notes/操作系统.md",
     "Junior Class Notes/面向对象建模与分析.md",
-    "数据结构复习/图.md",
     "未命名.md",
     "数据结构复习/树.md",
-    "Junior Class Notes/人工智能导论.md",
     "Junior Class Notes/云服务工程.md",
     "机器学习与深度学习/卷积神经网络.md",
     "机器学习与深度学习/StandFord MachineLearning Notes.md",
