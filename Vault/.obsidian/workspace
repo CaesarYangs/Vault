@@ -4,29 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8c5e32d35c8f523f",
+        "id": "7d22d6e9b592efd2",
         "type": "leaf",
+        "dimension": 81.01522842639594,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/人工智能导论.md",
+            "file": "Junior Class Notes/人工智能/5 对抗搜索.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "a3c958fd402aa4e3"
+      },
+      {
+        "id": "5baae207dc60d0b1",
+        "type": "leaf",
+        "dimension": 18.98477157360406,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Junior Class Notes/人工智能/5 对抗搜索.md"
+          }
+        },
+        "group": "a3c958fd402aa4e3"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4ddf6a1bd513585e",
+    "id": "6a125c049b328198",
     "type": "split",
     "children": [
       {
-        "id": "452ccf448350ac19",
+        "id": "f7079074bbdc884f",
         "type": "tabs",
         "children": [
           {
-            "id": "6f32d5df6640e7fe",
+            "id": "02703f2377affd1e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +48,7 @@
             }
           },
           {
-            "id": "c4e8da500e1eb1ba",
+            "id": "045ea03d2e1385c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,7 +63,7 @@
             }
           },
           {
-            "id": "8fdf5a26988becd9",
+            "id": "64a85d935045507f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -63,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "544bdb2b303dd32e",
+    "id": "780cb4e5300ddee4",
     "type": "split",
     "children": [
       {
-        "id": "b5cd2e930c7d9fb1",
+        "id": "ebefa1b5e2043e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "d785dfe10d5b69da",
+            "id": "f3893fb31f8b3688",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -79,12 +93,12 @@
             }
           },
           {
-            "id": "cd17320f79cfe450",
+            "id": "055cbd853bbb2318",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/人工智能导论.md",
+                "file": "Junior Class Notes/人工智能/5 对抗搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,12 +110,23 @@
             }
           },
           {
-            "id": "4aa1dff1a9a7414d",
+            "id": "18711a4a0cc7148e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f70f8b4819ede325",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior Class Notes/人工智能导论.md"
+                "file": "Junior Class Notes/人工智能/5 对抗搜索.md"
               }
             }
           }
@@ -112,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c5e32d35c8f523f",
+  "active": "7d22d6e9b592efd2",
   "lastOpenFiles": [
+    "5 对抗搜索.md",
     "Junior Class Notes/人工智能导论.md",
-    "数据结构复习/图.md",
+    "Junior Class Notes/云服务工程.md",
+    "3 进程管理.md",
+    "未命名.md",
+    "Junior Class Notes/Computer Networks.md",
+    "Untitled.md",
     "Junior Class Notes/操作系统.md",
     "Junior Class Notes/面向对象建模与分析.md",
-    "未命名.md",
-    "数据结构复习/树.md",
-    "Junior Class Notes/云服务工程.md",
-    "机器学习与深度学习/卷积神经网络.md",
-    "机器学习与深度学习/StandFord MachineLearning Notes.md",
-    "Untitled.md"
+    "机器学习与深度学习/卷积神经网络.md"
   ]
 }

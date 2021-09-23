@@ -1,6 +1,9 @@
 {
   "obsidianCss": false,
   "showLineNumber": false,
-  "readableLineLength": true,
-  "promptDelete": false
+  "readableLineLength": false,
+  "promptDelete": false,
+  "lineWrap": true,
+  "attachmentFolderPath": "./",
+  "strictLineBreaks": false
 }
