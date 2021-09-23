@@ -6,11 +6,11 @@
       {
         "id": "7d22d6e9b592efd2",
         "type": "leaf",
-        "dimension": 81.01522842639594,
+        "dimension": 68.08873720136518,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/人工智能/5 对抗搜索.md",
+            "file": "Junior Class Notes/人工智能/4 超越经典搜索.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "5baae207dc60d0b1",
         "type": "leaf",
-        "dimension": 18.98477157360406,
+        "dimension": 31.91126279863481,
         "state": {
           "type": "outline",
           "state": {
-            "file": "Junior Class Notes/人工智能/5 对抗搜索.md"
+            "file": "Junior Class Notes/人工智能/4 超越经典搜索.md"
           }
         },
         "group": "a3c958fd402aa4e3"
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/人工智能/5 对抗搜索.md",
+                "file": "Junior Class Notes/人工智能/4 超越经典搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior Class Notes/人工智能/5 对抗搜索.md"
+                "file": "Junior Class Notes/人工智能/4 超越经典搜索.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "7d22d6e9b592efd2",
   "lastOpenFiles": [
-    "5 对抗搜索.md",
+    "Junior Class Notes/人工智能/4 超越经典搜索.md",
     "Junior Class Notes/人工智能导论.md",
+    "Junior Class Notes/人工智能/5 对抗搜索.md",
+    "未命名.md",
+    "5 对抗搜索.md",
     "Junior Class Notes/云服务工程.md",
     "3 进程管理.md",
-    "未命名.md",
     "Junior Class Notes/Computer Networks.md",
     "Untitled.md",
-    "Junior Class Notes/操作系统.md",
-    "Junior Class Notes/面向对象建模与分析.md",
-    "机器学习与深度学习/卷积神经网络.md"
+    "Junior Class Notes/操作系统.md"
   ]
 }
