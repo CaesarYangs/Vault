@@ -1,7 +1,7 @@
 {
   "obsidianCss": false,
   "showLineNumber": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "promptDelete": false,
   "lineWrap": true,
   "attachmentFolderPath": "./",

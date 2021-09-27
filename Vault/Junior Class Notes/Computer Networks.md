@@ -37,7 +37,7 @@ network architecture
 
 primitive-原语
 
-### OSI Reference Model
+### OSI Reference Model_七层模型
 - A principled,international standard,seven layer model to connect different layers.
 1. Physical 物理层
 	Sends bits as signals
@@ -54,5 +54,53 @@ primitive-原语
 7. Application 应用层
 	 Provide funcitons needed by users
 
+PDU一协议数据单元
 
-### TCP/IP Reference
+在网络中通过下面三层进行主机间的通信
+
+### TCP/IP Reference ＿四层结构
+针对七层模型合并
+*核心网接入网
+1. 应用层
+2. 传输层
+3. 互联网层
+Omit some OSI layers and uses the IP as the network layer
+向上兼容：
+可以使用不同的应用层网络传输协议。支持因特网的应用是非常扩展的。
+向下兼容：
+用户互联网接入方式在不断变化，从主机到网络的基于IP和ICMP的接入方式可以不断扩展。
+
+### A Comparison of OSI and TCP/IP Mode
+- Concepts central to the models
+	- Services服务
+	- Interfaces接口
+	- Protocols协议
+- OSI
+Very influential model and clear concepts
+- TCP/IP
+Very successful protocols that worked well and thrived to become a defacto standard
+
+### Example Networks
+- Internet
+**ISP networks serve as the Internet backbone**
+不是单一的网络 是大量不同网络的集合
+网中网
+
+- Ethernet 
+- 3G
+Cellular network is based on spatial cells
+IP层以上的协议层很重要
+- WLAN:802.11
+- Emerging Network
+
+
+
+
+
+
+
+
+
+
+
+
