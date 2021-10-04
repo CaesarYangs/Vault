@@ -6,41 +6,41 @@
       {
         "id": "7d22d6e9b592efd2",
         "type": "leaf",
-        "dimension": 68.08873720136519,
+        "dimension": 80.6831566548881,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "数据结构复习/图.md",
+            "file": "Junior Class Notes/人工智能/4 超越经典搜索.md",
             "mode": "source"
           }
         },
-        "group": "a3c958fd402aa4e3"
+        "group": "f1bd7167a5e65691"
       },
       {
-        "id": "5baae207dc60d0b1",
+        "id": "75055bc6e85c2548",
         "type": "leaf",
-        "dimension": 31.911262798634812,
+        "dimension": 19.3168433451119,
         "state": {
           "type": "outline",
           "state": {
-            "file": "数据结构复习/图.md"
+            "file": "Junior Class Notes/人工智能/4 超越经典搜索.md"
           }
         },
-        "group": "a3c958fd402aa4e3"
+        "group": "f1bd7167a5e65691"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "92036ce6c7ff8a9a",
+    "id": "e3e00184f36cdbc1",
     "type": "split",
     "children": [
       {
-        "id": "259777d96d5b076a",
+        "id": "abd7ca6ca1b4951f",
         "type": "tabs",
         "children": [
           {
-            "id": "3a56935fb7b30e53",
+            "id": "e814f56abf5123e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "aa47ee0b42863170",
+            "id": "34f3bdeebd9ea93f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "213c529b7b524774",
+            "id": "65edbf4abc1e637b",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "5590ed1007c4d87e",
+    "id": "be8c6c5a0ee5947e",
     "type": "split",
     "children": [
       {
-        "id": "905e81987ce1d9df",
+        "id": "d2ed92aa0b92081a",
         "type": "tabs",
         "children": [
           {
-            "id": "be516d7349374eb0",
+            "id": "b5c9a76e3230f54d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,12 +93,12 @@
             }
           },
           {
-            "id": "1eced822efdcb59a",
+            "id": "0f5862bea0d77d99",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据结构复习/图.md",
+                "file": "Junior Class Notes/人工智能/4 超越经典搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,13 +110,23 @@
             }
           },
           {
-            "id": "afa07475dd329887",
+            "id": "5b9e6f7d65d86e76",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a87b2b67aa040e35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Junior Class Notes/人工智能/4 超越经典搜索.md"
               }
             }
           }
@@ -129,15 +139,15 @@
   },
   "active": "7d22d6e9b592efd2",
   "lastOpenFiles": [
-    "数据结构复习/图.md",
-    "6 约束满足问题.md",
-    "未命名.md",
-    "Junior Class Notes/Computer Networks.md",
-    "3 进程管理.md",
-    "Junior Class Notes/操作系统.md",
     "Junior Class Notes/人工智能/4 超越经典搜索.md",
-    "Junior Class Notes/人工智能导论.md",
     "Junior Class Notes/人工智能/5 对抗搜索.md",
-    "5 对抗搜索.md"
+    "Junior Class Notes/人工智能/6 约束满足问题.md",
+    "Junior Class Notes/人工智能/6 逻辑.md",
+    "Junior Class Notes/人工智能导论.md",
+    "Junior Class Notes/信息资源规划.md",
+    "Junior Class Notes/云服务工程.md",
+    "Junior Class Notes/Computer Networks.md",
+    "Junior Class Notes/人工智能/未命名.md",
+    "Junior Class Notes/人工智能/1 Agent.md"
   ]
 }

@@ -1,7 +1,4 @@
-### Overview
-
-
-
+# Computer Networks
 ## Introduction
 - Computer network
 	-  A number of individual computers interconnected through a communication network
@@ -37,7 +34,7 @@ network architecture
 
 primitive-原语
 
-### OSI Reference Model_七层模型
+### OSI Reference Model  七层模型
 - A principled,international standard,seven layer model to connect different layers.
 1. Physical 物理层
 	Sends bits as signals
@@ -58,37 +55,45 @@ PDU一协议数据单元
 
 在网络中通过下面三层进行主机间的通信
 
-### TCP/IP Reference ＿四层结构
+### TCP/IP Reference  四层结构
 针对七层模型合并
 *核心网接入网
+0. 链路层
 1. 应用层
 2. 传输层
 3. 互联网层
 Omit some OSI layers and uses the IP as the network layer
-向上兼容：
+
+- 向上兼容：
 可以使用不同的应用层网络传输协议。支持因特网的应用是非常扩展的。
-向下兼容：
+- 向下兼容：
 用户互联网接入方式在不断变化，从主机到网络的基于IP和ICMP的接入方式可以不断扩展。
 
 ### A Comparison of OSI and TCP/IP Mode
-- Concepts central to the models
+#### OSI
+- Concepts central to the **OSI** models
 	- Services服务
 	- Interfaces接口
 	- Protocols协议
-- OSI
-Very influential model and clear concepts
-- TCP/IP
-Very successful protocols that worked well and thrived to become a defacto standard
+
+> Very influential model and clear concepts
+- 无连接和面向连接的通信领域：OSI同时支持。但传输层只支持面向连接通信。
+#### TCP/IP
+> Very successful protocols that worked well and thrived to become a defacto standard
+
+- 先有协议，TCP/IP模型只是已有协议的一个描述而已===>**模型与协议高度吻合**
+- 但TCP/IP不适合任何其他协议栈，描述其他非此的网络，该模型不很有用。
+- 无连接和面向连接的通信领域：TCP/IP仅支持无连接一种模式。但在传输层同时支持两种。对于简单的“请求-应答”协议非常重要。
 
 ### Example Networks
 - Internet
 **ISP networks serve as the Internet backbone**
 不是单一的网络 是大量不同网络的集合
 网中网
-
 - Ethernet 
 - 3G
 Cellular network is based on spatial cells
+必须使用空中接口（Air interface）
 IP层以上的协议层很重要
 - WLAN:802.11
 - Emerging Network
