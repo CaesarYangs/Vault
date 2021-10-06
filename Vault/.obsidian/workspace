@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/人工智能/4 超越经典搜索.md",
+            "file": "Junior Class Notes/人工智能/1 Agent.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Junior Class Notes/人工智能/4 超越经典搜索.md"
+            "file": "Junior Class Notes/人工智能/1 Agent.md"
           }
         },
         "group": "f1bd7167a5e65691"
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/人工智能/4 超越经典搜索.md",
+                "file": "Junior Class Notes/人工智能/1 Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior Class Notes/人工智能/4 超越经典搜索.md"
+                "file": "Junior Class Notes/人工智能/1 Agent.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "7d22d6e9b592efd2",
   "lastOpenFiles": [
-    "Junior Class Notes/人工智能/4 超越经典搜索.md",
-    "Junior Class Notes/人工智能/5 对抗搜索.md",
-    "Junior Class Notes/人工智能/6 约束满足问题.md",
-    "Junior Class Notes/人工智能/6 逻辑.md",
+    "Junior Class Notes/人工智能/1 Agent.md",
+    "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md",
+    "Junior Class Notes/人工智能/3 局部搜索 超越经典搜索.md",
     "Junior Class Notes/人工智能导论.md",
-    "Junior Class Notes/信息资源规划.md",
-    "Junior Class Notes/云服务工程.md",
-    "Junior Class Notes/Computer Networks.md",
     "Junior Class Notes/人工智能/未命名.md",
-    "Junior Class Notes/人工智能/1 Agent.md"
+    "Junior Class Notes/人工智能/8 逻辑.md",
+    "Junior Class Notes/人工智能/7 约束满足问题.md",
+    "Junior Class Notes/人工智能/5 博弈 对抗搜索.md",
+    "Junior Class Notes/人工智能/4 局部搜索 超越经典搜索.md",
+    "Junior Class Notes/人工智能/4 超越经典搜索.md"
   ]
 }
