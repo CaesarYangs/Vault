@@ -6,11 +6,11 @@
       {
         "id": "7d22d6e9b592efd2",
         "type": "leaf",
-        "dimension": 80.6831566548881,
+        "dimension": 74.962852897474,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md",
+            "file": "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "75055bc6e85c2548",
         "type": "leaf",
-        "dimension": 19.3168433451119,
+        "dimension": 25.037147102526,
         "state": {
           "type": "outline",
           "state": {
-            "file": "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md"
+            "file": "Junior Class Notes/人工智能/4 博弈 对抗搜索.md"
           }
         },
         "group": "f1bd7167a5e65691"
@@ -32,15 +32,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e3e00184f36cdbc1",
+    "id": "83a8de0cd22692a5",
     "type": "split",
     "children": [
       {
-        "id": "abd7ca6ca1b4951f",
+        "id": "1ab3e460aa357ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "e814f56abf5123e0",
+            "id": "d3a0fbc3b9ac75ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "34f3bdeebd9ea93f",
+            "id": "87dfdd1ceebf87fc",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#考点-人工智能",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "65edbf4abc1e637b",
+            "id": "f3266781854fd055",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "be8c6c5a0ee5947e",
+    "id": "4f7be6096f017f8d",
     "type": "split",
     "children": [
       {
-        "id": "d2ed92aa0b92081a",
+        "id": "6e656db014bc7b47",
         "type": "tabs",
         "children": [
           {
-            "id": "b5c9a76e3230f54d",
+            "id": "4b782c0b34ef2f85",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,12 +93,12 @@
             }
           },
           {
-            "id": "0f5862bea0d77d99",
+            "id": "1c3886206f77b304",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md",
+                "file": "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,23 +110,13 @@
             }
           },
           {
-            "id": "5b9e6f7d65d86e76",
+            "id": "86252baae94ecb0f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "a87b2b67aa040e35",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md"
               }
             }
           }
@@ -139,15 +129,15 @@
   },
   "active": "7d22d6e9b592efd2",
   "lastOpenFiles": [
+    "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
+    "Junior Class Notes/人工智能/3 局部搜索 超越经典搜索.md",
+    "Junior Class Notes/人工智能/5 约束满足问题.md",
     "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md",
+    "Junior Class Notes/人工智能/6 逻辑.md",
     "Junior Class Notes/人工智能导论.md",
     "Junior Class Notes/人工智能/1 Agent.md",
-    "Junior Class Notes/人工智能/3 局部搜索 超越经典搜索.md",
     "Junior Class Notes/人工智能/未命名.md",
     "Junior Class Notes/人工智能/8 逻辑.md",
-    "Junior Class Notes/人工智能/7 约束满足问题.md",
-    "Junior Class Notes/人工智能/5 博弈 对抗搜索.md",
-    "Junior Class Notes/人工智能/4 局部搜索 超越经典搜索.md",
-    "Junior Class Notes/人工智能/4 超越经典搜索.md"
+    "Junior Class Notes/人工智能/7 约束满足问题.md"
   ]
 }

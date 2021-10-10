@@ -98,11 +98,28 @@ IP层以上的协议层很重要
 - WLAN:802.11
 - Emerging Network
 
+## Chapter 2  Physical Layer
+## Chapter 3  Data Link Layer
+Main Functionality
+- Provide service interface to the network layer
+- Transmit frames of information over a single link
+	- Handle errors occurred during transmission
+	- Regulate the flow of data
+		 (Slow receivers don't get swamped by fast senders)
+不能出错 流量调节 
 
+## Data Link Layer Design Issue
+### Frames
+### Possible Services
+- Services provided to network layer
 
+路由的目的是应用进程之间的通讯
+实现了主机到主机之间网络层面的路由
+### Framing Methods
+### Error Control
+### Flow Control
 
-
-
+## Elementary Data Link Protocal
 
 
 
