@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
+            "file": "Junior Class Notes/人工智能/7 Markov决策过程.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Junior Class Notes/人工智能/4 博弈 对抗搜索.md"
+            "file": "Junior Class Notes/人工智能/7 Markov决策过程.md"
           }
         },
         "group": "f1bd7167a5e65691"
@@ -32,15 +32,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "febd2eef3de6b3f7",
+    "id": "0fcdbf041b508dba",
     "type": "split",
     "children": [
       {
-        "id": "43f46cfb09cbcc61",
+        "id": "b7583c7f22ed804d",
         "type": "tabs",
         "children": [
           {
-            "id": "3ceffe1ff0fba28d",
+            "id": "7514ea782574de8c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c16258c2c272b51e",
+            "id": "06aa39ab3562f9c5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "1f5a25135e912531",
+            "id": "98d16dda40b864f4",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "c3f85791f493a4a4",
+    "id": "235d758937fabd7d",
     "type": "split",
     "children": [
       {
-        "id": "061979ed50907484",
+        "id": "5f63c7116943e403",
         "type": "tabs",
         "children": [
           {
-            "id": "712e8b768e8612bd",
+            "id": "3ebd842b4c400561",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -93,12 +93,12 @@
             }
           },
           {
-            "id": "486e0683a2efc01a",
+            "id": "badf38cd78bb1f25",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
+                "file": "Junior Class Notes/人工智能/7 Markov决策过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             }
           },
           {
-            "id": "b3e54265c465552d",
+            "id": "2190aa7ff04f5de0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,15 +129,15 @@
   },
   "active": "7d22d6e9b592efd2",
   "lastOpenFiles": [
-    "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
-    "Junior Class Notes/人工智能/5 约束满足问题.md",
-    "Junior Class Notes/人工智能/3 局部搜索 超越经典搜索.md",
+    "Junior Class Notes/人工智能/7 Markov决策过程.md",
+    "Junior Class Notes/人工智能/未命名.md",
     "Junior Class Notes/人工智能/6 逻辑.md",
+    "Junior Class Notes/人工智能/5 约束满足问题.md",
+    "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
+    "Junior Class Notes/人工智能/3 局部搜索 超越经典搜索.md",
     "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md",
     "Junior Class Notes/人工智能导论.md",
     "Junior Class Notes/人工智能/1 Agent.md",
-    "Junior Class Notes/人工智能/未命名.md",
-    "Junior Class Notes/人工智能/8 逻辑.md",
-    "Junior Class Notes/人工智能/7 约束满足问题.md"
+    "Junior Class Notes/人工智能/8 逻辑.md"
   ]
 }
