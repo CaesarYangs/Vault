@@ -1,128 +1,132 @@
 {
   "main": {
-    "id": "46074c40ee2def80",
+    "id": "d89d11454640eedc",
     "type": "split",
     "children": [
       {
-        "id": "7d22d6e9b592efd2",
+        "id": "98e4daac3c97d124",
         "type": "leaf",
-        "dimension": 74.962852897474,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior Class Notes/人工智能/1 Agent.md",
-            "mode": "source"
+            "file": "Swift UI.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "f1bd7167a5e65691"
-      },
-      {
-        "id": "75055bc6e85c2548",
-        "type": "leaf",
-        "dimension": 25.037147102526,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Junior Class Notes/人工智能/1 Agent.md"
-          }
-        },
-        "group": "f1bd7167a5e65691"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "425bd44a46a01f20",
-    "type": "mobile-drawer",
+    "id": "20f35f5c43cf2c4a",
+    "type": "split",
     "children": [
       {
-        "id": "2748bfa96632cc1a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "4cfae8e980ee4c55",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "67006a99d98158ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a3e4e8c25d7204",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d8a61b814aeeddc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6971d570bb43d60f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "4caed0838f6101e0",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "97c7d008a16a6492",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "c217e02131dd64d5",
-    "type": "mobile-drawer",
+    "id": "cfd8ca450f5f1666",
+    "type": "split",
     "children": [
       {
-        "id": "c54d295f0fa04ade",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {}
-        }
-      },
-      {
-        "id": "bb7283dcc5a3c1b2",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Junior Class Notes/人工智能/1 Agent.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "e58d1651b75f514e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eced56b3f14291b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Swift UI.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c93e767bc8d7bb0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b6d3d23abd170baa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Swift UI.md"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
-  "active": "75055bc6e85c2548",
+  "active": "98e4daac3c97d124",
   "lastOpenFiles": [
-    "Junior Class Notes/人工智能/1 Agent.md",
-    "Junior Class Notes/人工智能/8 强化学习.md",
-    "Junior Class Notes/人工智能/4 博弈 对抗搜索.md",
-    "Junior Class Notes/人工智能/7 Markov决策过程.md",
-    "Junior Class Notes/云服务工程.md",
-    "Junior Class Notes/人工智能/未命名.md",
-    "Junior Class Notes/Computer Networks.md",
-    "Junior Class Notes/人工智能/2 搜索 通过搜索进行问题求解.md",
-    "Junior Class Notes/人工智能/3 局部搜索 超越经典搜索.md",
-    "Junior Class Notes/人工智能/6 逻辑.md"
+    "Swift UI.md",
+    "Python 课堂笔记.md",
+    "Python3自学笔记.md",
+    "机器学习与深度学习/StandFord MachineLearning Notes.md",
+    "机器学习与深度学习/cv部分.md",
+    "机器学习与深度学习/卷积神经网络.md",
+    "机器学习与深度学习/阿里云机器学习课程笔记.md",
+    "数据结构复习/树.md",
+    "数据结构复习/图.md",
+    "Junior Class Notes/人工智能/1 Agent.md"
   ]
 }

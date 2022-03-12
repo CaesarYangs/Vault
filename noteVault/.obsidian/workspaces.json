@@ -1,0 +1,153 @@
+{
+  "workspaces": {
+    "main1": {
+      "main": {
+        "id": "64b9d95a75e45d0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "fab8a304e0e4d67c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/3 进程管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1dff1aca04f6c218",
+        "type": "split",
+        "children": [
+          {
+            "id": "c10b7365cf2adf6a",
+            "type": "tabs",
+            "dimension": 66.80455015511893,
+            "children": [
+              {
+                "id": "33d8e307ef720936",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f66fc0637f9e5d51",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#碎片摄入👌🏻",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "6642855eeb26af00",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4003af1d92d0eb37",
+            "type": "tabs",
+            "dimension": 33.195449844881075,
+            "children": [
+              {
+                "id": "afc45f8ddf05fdef",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "4b02c51a59fbdd4a",
+        "type": "split",
+        "children": [
+          {
+            "id": "6888a4d79f9b714f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "11c8a70f21851cf8",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "操作系统/3 进程管理.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "77ccc7741406d45f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "操作系统/3 进程管理.md"
+                  }
+                }
+              },
+              {
+                "id": "83b2ffb20581942d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "操作系统/3 进程管理.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "83266c41586c9f83",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "fab8a304e0e4d67c"
+    }
+  },
+  "active": "main1"
+}
