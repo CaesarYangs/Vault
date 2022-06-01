@@ -6,7 +6,7 @@
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
@@ -37,5 +37,7 @@
   ],
   "readableLineLength": true,
   "lineWrap": true,
-  "emacsyKeys": true
+  "emacsyKeys": true,
+  "defaultViewMode": "preview",
+  "foldIndent": true
 }

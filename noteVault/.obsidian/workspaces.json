@@ -147,7 +147,155 @@
         "width": 300
       },
       "active": "fab8a304e0e4d67c"
+    },
+    "3/12/22": {
+      "main": {
+        "id": "744abdf4657b44d5",
+        "type": "split",
+        "children": [
+          {
+            "id": "0214a4650d320841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/7 设备管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "c517931a8e4a76e6",
+        "type": "split",
+        "children": [
+          {
+            "id": "a8de733b200a16fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fd28e2ba3ea4bbb2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "04423826f933605f",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "a9d4c3fa8ded00e5",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "1c2068c73a995588",
+        "type": "split",
+        "children": [
+          {
+            "id": "f60868f5fceb56c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0ed3e013d1d8b4c0",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5b4ce1bafb9bcd9d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "操作系统/7 设备管理.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "e78529181228d53a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "操作系统/7 设备管理.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "61cff0c650a68f6b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "96691488b95cf768",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "操作系统/7 设备管理.md"
+                  }
+                }
+              },
+              {
+                "id": "265714fa8bda1794",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "0214a4650d320841"
     }
   },
-  "active": "main1"
+  "active": "3/12/22"
 }

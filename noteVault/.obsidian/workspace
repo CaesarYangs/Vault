@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0214a4650d320841",
+        "id": "3ed6d6dd231f6bbb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "操作系统/7 设备管理.md",
-            "mode": "source",
+            "file": "Junior/软件测试与质量保证/7 软件静态测试.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -19,15 +19,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c517931a8e4a76e6",
+    "id": "ce0472f13a943b20",
     "type": "split",
     "children": [
       {
-        "id": "a8de733b200a16fa",
+        "id": "304fad211664c3dc",
         "type": "tabs",
         "children": [
           {
-            "id": "fd28e2ba3ea4bbb2",
+            "id": "b0e340fdbb5fa472",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "03c30808de5a9922",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +43,7 @@
             }
           },
           {
-            "id": "04423826f933605f",
+            "id": "345a0c72dbc32504",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,29 +58,30 @@
             }
           },
           {
-            "id": "a9d4c3fa8ded00e5",
+            "id": "d2771f2377b4aff7",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "1c2068c73a995588",
+    "id": "97d975363d4b554a",
     "type": "split",
     "children": [
       {
-        "id": "f60868f5fceb56c9",
+        "id": "4f90502d097d071b",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed3e013d1d8b4c0",
+            "id": "df76a3faa1776842",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -80,12 +89,12 @@
             }
           },
           {
-            "id": "5b4ce1bafb9bcd9d",
+            "id": "635b2a73fb1f8fa1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "操作系统/7 设备管理.md",
+                "file": "Junior/软件测试与质量保证/7 软件静态测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +106,19 @@
             }
           },
           {
-            "id": "e78529181228d53a",
+            "id": "beef849a2952427a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "操作系统/7 设备管理.md",
+                "file": "Junior/软件测试与质量保证/7 软件静态测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "61cff0c650a68f6b",
+            "id": "27485e543542a868",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,41 +129,33 @@
             }
           },
           {
-            "id": "96691488b95cf768",
+            "id": "ea30eaf357b871fd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/7 设备管理.md"
+                "file": "Junior/软件测试与质量保证/7 软件静态测试.md"
               }
-            }
-          },
-          {
-            "id": "265714fa8bda1794",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0214a4650d320841",
+  "active": "3ed6d6dd231f6bbb",
   "lastOpenFiles": [
-    "操作系统/7 设备管理.md",
-    "操作系统/4 处理机调度.md",
-    "学习方法.md",
-    "操作系统/3 进程管理.md",
-    "未命名.md",
-    "操作系统/2 操作系统用户界面.md",
-    "考试科目/893 软件工程学科专业基础-BJUT.md",
-    "数据结构/《数据结构 严蔚敏-殷人昆》Base Model/5 树.md",
-    "数据结构/《数据结构 严蔚敏-殷人昆》Base Model/4 数组、串与广义表.md",
-    "数据结构/《数据结构 严蔚敏-殷人昆》Base Model/3 栈和队列.md"
+    "Junior/软件测试与质量保证/7 软件静态测试.md",
+    "Junior/软件测试与质量保证/5 软件测试过程.md",
+    "Junior/编译原理/1 词法分析.md",
+    "Junior/编译原理/0 引论.md",
+    "Junior/软件测试与质量保证/8-7 动态-功能测试、性能测试.md",
+    "Junior/编译原理/5 中间表示.md",
+    "Junior/编译原理/4 代码生成.md",
+    "Junior/编译原理/2 语法分析.md",
+    "Junior/编译原理/3 语义分析.md",
+    "Junior/软件测试与质量保证/4 生命周期软件测试方法.md"
   ]
 }

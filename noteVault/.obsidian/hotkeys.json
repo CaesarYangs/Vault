@@ -38,5 +38,23 @@
       ],
       "key": "["
     }
+  ],
+  "obsidian-pangu:pangu-format": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "outline:open-for-current": [],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
