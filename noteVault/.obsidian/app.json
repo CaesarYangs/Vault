@@ -39,5 +39,6 @@
   "lineWrap": true,
   "emacsyKeys": true,
   "defaultViewMode": "preview",
-  "foldIndent": true
+  "foldIndent": true,
+  "vimMode": false
 }
