@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Junior/编译原理/2 语法分析.md",
+            "file": "Junior/编译原理/1 词法分析.md",
             "mode": "preview",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Junior/编译原理/2 语法分析.md",
+                "file": "Junior/编译原理/1 词法分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Junior/编译原理/2 语法分析.md",
+                "file": "Junior/编译原理/1 词法分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior/编译原理/2 语法分析.md"
+                "file": "Junior/编译原理/1 词法分析.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "039c3f4774a919c1",
   "lastOpenFiles": [
-    "Junior/编译原理/2 语法分析.md",
-    "Junior/编译原理/3 语义分析.md",
     "Junior/编译原理/1 词法分析.md",
-    "Junior/编译原理/4 代码生成.md",
-    "Junior/编译原理/Q&As.md",
     "Junior/编译原理/0 引论.md",
     "Junior/编译原理/5 中间表示.md",
-    "未命名 2.md",
+    "Junior/编译原理/4 代码生成.md",
+    "Junior/编译原理/3 语义分析.md",
+    "Junior/编译原理/2 语法分析.md",
     "Junior/物联网技术与应用/物联网大作业.md",
+    "Junior/编译原理/Q&As.md",
+    "未命名 2.md",
     "Junior/软件测试与质量保证/1 软件与软件危机.md"
   ]
 }
